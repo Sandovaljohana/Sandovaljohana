@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johana</h1>
-<h3 align="center">Full stack developer in progress...</h3>
-<p>To live life requires passion and a creative approach, but more than that is to deepen empathy, which has led me to immerse myself in a process that leads me to learn how to create intuitive, equitable and engaging digital experiences that connect positively with others, where feelings and emotions flow.
-
-I'm Johana Sandoval, I like to read, listen to music and share getaways to places with breathtaking views with my small family circle. I am characterized by curiosity, empathy, active listening, as well as honesty and sensitivity towards the emotions of others. I believe that making a better world requires love and putting myself in the shoes of others.
-
-Collaborating closely with other teams to create user-centric solutions is my medium to long term goal and thus ensuring that digital experiences are intuitive, accessible and satisfying for end users, often: ourselves!
-Come and enjoy this learning journey with me! </p>
+<h3 align="center">Full stack developer in progress...To live life requires passion and a creative approach, but more than that is to deepen empathy, which has led me to immerse myself in a process that leads me to learn how to create intuitive, equitable and engaging digital experiences that connect positively with others, where feelings and emotions flow. I'm Johana Sandoval, I like to read, listen to music and share getaways to places with breathtaking views with my small family circle. I am characterized by curiosity, empathy, active listening, as well as honesty and sensitivity towards the emotions of others. I believe that making a better world requires love and putting myself in the shoes of others. Collaborating closely with other teams to create user-centric solutions is my medium to long term goal and thus ensuring that digital experiences are intuitive, accessible and satisfying for end users, often: ourselves! Come and enjoy this learning journey with me!</h3>
 
 - 📫 How to reach me **sandovaljohana@outlook.es**
 
